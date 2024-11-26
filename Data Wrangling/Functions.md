@@ -1,6 +1,5 @@
 # Data Preprocessing Guide with `pandas`
 
-```python
 # Importing Required Library
 import pandas as pd
 
