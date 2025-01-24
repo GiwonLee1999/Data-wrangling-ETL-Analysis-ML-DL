@@ -1,5 +1,5 @@
-# ETL/Data Wrangling/Analysis/ML/DL
+# ML/DL
  
-### This is a repository where I gain foundational knowledges in Data handling/ETL/Analysis/ML/DL
+### This is a repository where I gain foundational knowledges in ML/DL
 - Practical cases can be found in each folder.
 
